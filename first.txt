@@ -1,2 +1,0 @@
-hello ji kya hal chal sb ke 
-print("hello")
